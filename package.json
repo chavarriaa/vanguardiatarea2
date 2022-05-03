@@ -1,0 +1,23 @@
+{
+  "name": "tarea2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chavarriaa/vanguardiatarea2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chavarriaa/vanguardiatarea2/issues"
+  },
+  "homepage": "https://github.com/chavarriaa/vanguardiatarea2#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "express": "^4.18.1"
+  }
+}
